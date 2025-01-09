@@ -1,0 +1,21 @@
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.button{
+ width: 45px;
+ height: 45px;
+ margin:4px;
+ border-radius: 4px;
+ font-weight: 500;
+}
+
+/* Hover effect */
+
+.button:hover {
+  background-color: rgb(200, 196, 196);
+}
+
+/* Active effect */

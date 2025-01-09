@@ -1,0 +1,9 @@
+.input {
+  width:100%;
+  padding: 6px;
+  border-radius: 5px;
+  color:rgb(2, 18, 18)
+}
+.input:hover{
+  border-color: rgba(4, 4, 209, 0.574);
+}

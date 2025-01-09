@@ -1,0 +1,15 @@
+.clock-name{
+  font-size: 80px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.desc{
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.current-time{
+  font-size: 20px;
+  text-align: center;
+  
+}
